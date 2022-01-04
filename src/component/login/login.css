@@ -1,0 +1,135 @@
+.container {
+    width: 100%;
+}
+
+.container .flexLeft {
+    width: 40%;
+    padding-left: 200px;
+    padding-top: 100px;
+    float: left;
+}
+
+.container .flexLeft .boxFormControl {
+    width: 100%;
+    height: 700px;
+}
+
+.container .flexLeft .boxFormControl .box1 {
+    height: 20%;
+}
+
+.container .flexLeft .boxFormControl .box2 {
+    height: 12%;
+}
+
+.container .flexLeft .boxFormControl .box2 .textField {
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.container .flexLeft .boxFormControl .box3 {
+    height: 12%;
+}
+
+.container .flexLeft .boxFormControl .box3 .textField {
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: black;
+    border-radius: 5px;
+}
+
+.container .flexLeft .boxFormControl .box4 {
+    height: 10%;
+}
+
+.container .flexLeft .boxFormControl .box4 .button {
+    justify-content: flex-end;
+}
+
+.container .flexLeft .boxFormControl .box5 {
+    height: 10%;
+}
+
+.container .flexLeft .boxFormControl .box5 .button {
+    width: 50%;
+    height: 50px;
+    background-color: rgba(0, 51, 102, 1);
+}
+
+.container .flexLeft .boxFormControl .box6 {
+    height: 16%;
+}
+
+.container .flexLeft .boxFormControl .box6 .boxContainer2 {
+    height: 100%;
+}
+
+.container .flexLeft .boxFormControl .box6 .boxContainer2 .divide {
+    width: 30%;
+    float: left;
+}
+
+.container .flexLeft .boxFormControl .box6 .boxContainer2 .hr {
+    width: 15%;
+    float: left;
+}
+
+.container .flexLeft .boxFormControl .box6 .boxContainer2 .textOr {
+    width: 10%;
+    float: left;
+}
+
+.container .flexLeft .boxFormControl .box6 .boxContainer3 {
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+
+.container .flexLeft .boxFormControl .box6 .boxOtherLogin {
+    width: 20%;
+    display: inline-block;
+}
+
+.container .flexLeft .boxFormControl .box6 .boxOtherLogin img {
+    width: 50px;
+    height: 50px;
+    
+}
+
+.container .flexRight {
+    width: 40%;
+    float: left;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+
+.container .flexRight .boxContainer {
+    width: 100%;
+    height: 700px;
+}
+
+.container .flexRight .boxContainer .boxRight1 {
+    height: 60%;
+}
+
+.container .flexRight .boxContainer .boxRight1 img {
+    height: 100%;
+    width: 100%;
+}
+
+.container .flexRight .boxContainer .boxRight2 {
+    height: 10%;
+}
+
+.container .flexRight .boxContainer .boxRight3 {
+    height: 10%;
+}
+
+.container .flexRight .boxContainer .boxRight3 .button{
+    width: 60%;
+    height: 50px;
+}
+
+
+

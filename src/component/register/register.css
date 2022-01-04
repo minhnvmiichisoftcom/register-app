@@ -1,0 +1,74 @@
+.container {
+    width: 100%;
+}
+
+.container .boxLeft {
+    width: 40%;
+    padding-left: 200px;
+    padding-top: 100px;
+    float: left;
+    height: 700px;
+}
+
+.container .boxLeft .boxLeftImg {
+    width: 100%;
+    height: 60%;
+}
+
+.container .boxLeft .boxLeftImg .img {
+    background-color: red;
+    width: 60%;
+    height: 100%;
+}
+
+.container .boxLeft .boxLeftTitle {
+    width: 100%;
+    height: 20%;
+}
+
+.container .boxLeft .boxLeftButton {
+    width: 100%;
+    height: 20%;
+}
+
+.container .boxRight {
+    width: 40%;
+    float: left;
+    padding-right: 100px;
+    padding-top: 100px;
+    height: 700px;
+}
+
+.container .boxRightTitle {
+    width: 100%;
+    height: 10%;
+}
+
+.container .boxRightInput {
+    width: 100%;
+    height: 50%;
+}
+
+.container .boxRightInput .input {
+    width: 60%;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    color: black;
+    margin-top: 20px;
+}
+
+.container .boxRightButton {
+    width: 100%;
+    height: 10%;
+}
+
+.container .boxRightOption {
+    width: 100%;
+    height: 5%;
+}
+
+.container .boxRightOtherSignIn {
+    width: 100%;
+    height: 5%;
+}
